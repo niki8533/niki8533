@@ -1,4 +1,4 @@
-## Hi there 👋
+## 네 저에요 👋
 
 
 ![niki8533's GitHub stats](https://github-readme-stats.vercel.app/api?username=niki8533&show_icons=true&theme=tokyonight)
