@@ -3,7 +3,7 @@
 🤔 사용자의 문제를 기술적으로 풀어내는데 집중하는 개발자 <br>
 🔧 개발 효율성과 구조적 안정성을 함께 고민하는 개발자 <br>
 <br>
-항상 앞으로 뻗어나아가길 바라는 신입 백엔드 개발자 입니다. 
+항상 앞으로 나아가고 싶은 신입 백엔드 개발자 입니다. 
 
 ### 🌐 Blog:
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@niki8533/posts) 
